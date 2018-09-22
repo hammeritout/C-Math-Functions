@@ -1,0 +1,12 @@
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\bin\Debug\MathFunctionsProject.exe.config
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\bin\Debug\MathFunctionsProject.exe
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\bin\Debug\MathFunctionsProject.pdb
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\obj\Debug\MathFunctionsProject.csprojResolveAssemblyReference.cache
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\obj\Debug\MathFunctionsProject.FrmMathFunctions.resources
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\obj\Debug\MathFunctionsProject.Properties.Resources.resources
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\obj\Debug\MathFunctionsProject.csproj.GenerateResource.Cache
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\obj\Debug\MathFunctionsProject.exe
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\MathFunctionsSolution\MathFunctionsProject\obj\Debug\MathFunctionsProject.pdb
+C:\Users\sharyl\Documents\OSUIT Fall 2016\ITD 1253 C#\MathFunctions\MathFunctionsSolution\MathFunctionsProject\bin\Debug\MathFunctionsProject.exe.config
+C:\Users\sharyl\Documents\OSUIT Fall 2016\ITD 1253 C#\MathFunctions\MathFunctionsSolution\MathFunctionsProject\obj\Debug\MathFunctionsProject.exe
+C:\Users\sharyl\Documents\OSUIT Fall 2016\ITD 1253 C#\MathFunctions\MathFunctionsSolution\MathFunctionsProject\obj\Debug\MathFunctionsProject.pdb

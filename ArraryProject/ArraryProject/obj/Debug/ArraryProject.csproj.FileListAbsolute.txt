@@ -1,0 +1,12 @@
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\bin\Debug\ArraryProject.exe.config
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\bin\Debug\ArraryProject.exe
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\bin\Debug\ArraryProject.pdb
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\obj\Debug\ArraryProject.csprojResolveAssemblyReference.cache
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\obj\Debug\ArraryProject.Form1.resources
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\obj\Debug\ArraryProject.Properties.Resources.resources
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\obj\Debug\ArraryProject.csproj.GenerateResource.Cache
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\obj\Debug\ArraryProject.exe
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\MathFunctions\ArraryProject\ArraryProject\obj\Debug\ArraryProject.pdb
+C:\Users\sharyl\Documents\OSUIT Fall 2016\ITD 1253 C#\MathFunctions\ArraryProject\ArraryProject\bin\Debug\ArraryProject.exe.config
+C:\Users\sharyl\Documents\OSUIT Fall 2016\ITD 1253 C#\MathFunctions\ArraryProject\ArraryProject\obj\Debug\ArraryProject.exe
+C:\Users\sharyl\Documents\OSUIT Fall 2016\ITD 1253 C#\MathFunctions\ArraryProject\ArraryProject\obj\Debug\ArraryProject.pdb
